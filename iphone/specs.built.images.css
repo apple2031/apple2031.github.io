@@ -1,0 +1,137 @@
+.section-display .image-display-iphone-13-pro {
+    background-image: url("display_iphone_13_pro__d403f3t3yvee_large.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro__d403f3t3yvee_large.jpg*/;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-display .image-display-iphone-13-pro {
+        background-image:url("display_iphone_13_pro__d403f3t3yvee_large_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro__d403f3t3yvee_large_2x.jpg*/
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-display .image-display-iphone-13-pro {
+        background-image:url("display_iphone_13_pro__d403f3t3yvee_small.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro__d403f3t3yvee_small.jpg*/
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and(max-width: 734px) and (min-resolution: 144dpi) {
+    .section-display .image-display-iphone-13-pro {
+        background-image:url("display_iphone_13_pro__d403f3t3yvee_small_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro__d403f3t3yvee_small_2x.jpg*/
+    }
+}
+
+.section-display .image-display-iphone-13-pro-max {
+    background-image: url("display_iphone_13_pro_max__gmf7is578tay_large.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro_max__gmf7is578tay_large.jpg*/;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-display .image-display-iphone-13-pro-max {
+        background-image:url("display_iphone_13_pro_max__gmf7is578tay_large_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro_max__gmf7is578tay_large_2x.jpg*/
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-display .image-display-iphone-13-pro-max {
+        background-image:url("display_iphone_13_pro_max__gmf7is578tay_small.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro_max__gmf7is578tay_small.jpg*/
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and(min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-display .image-display-iphone-13-pro-max {
+        background-image:url("display_iphone_13_pro_max__gmf7is578tay_small_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/display_iphone_13_pro_max__gmf7is578tay_small_2x.jpg*/
+    }
+}
+
+.section-built-in-apps .techspecs-app-icon-calendar {
+    background-image:url("icon_calendar__expsz0w9rceq_large.png")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/icon_calendar__expsz0w9rceq_large.png*/
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),(min-resolution: 144dpi), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx) {
+    .section-built-in-apps .techspecs-app-icon-calendar {
+        background-image:url("icon_calendar__expsz0w9rceq_large_2x.png")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/icon_calendar__expsz0w9rceq_large_2x.png*/
+    }
+}
+
+
+.section-size-and-weight .image-dimensions-iphone-13 {
+    background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_large.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_large.jpg*/;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+    (min-resolution: 144dpi),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-resolution: 1.5dppx) {
+    .section-size-and-weight .image-dimensions-iphone-13 {
+        background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_large_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_large_2x.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-size-and-weight .image-dimensions-iphone-13 {
+        background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_medium.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_medium.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+    only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-13 {
+        background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_medium_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_medium_2x.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-size-and-weight .image-dimensions-iphone-13 {
+        background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_small.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_small.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+    only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-13 {
+        background-image: url("dimensions_iphone_13_pro__cokgeazqayxe_small_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro__cokgeazqayxe_small_2x.jpg*/;
+    }
+}
+
+.section-size-and-weight .image-dimensions-iphone-13-max {
+    background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_large.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_large.jpg*/;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5),
+    (min-resolution: 144dpi),
+    only screen and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (min-resolution: 1.5dppx) {
+    .section-size-and-weight .image-dimensions-iphone-13-max {
+        background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_large_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_large_2x.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+    .section-size-and-weight .image-dimensions-iphone-13-max {
+        background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_medium.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_medium.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 1068px) and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (max-width: 1068px) and (min-resolution: 1.5dppx),
+    only screen and (max-width: 1068px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-13-max {
+        background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_medium_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_medium_2x.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-size-and-weight .image-dimensions-iphone-13-max {
+        background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_small.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_small.jpg*/;
+    }
+}
+
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5),
+    only screen and (max-width: 734px) and (min-resolution: 1.5dppx),
+    only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+    .section-size-and-weight .image-dimensions-iphone-13-max {
+        background-image: url("dimensions_iphone_13_pro_max__etaibw7deoqe_small_2x.jpg")/*tpa=https://www.apple.com.cn/iphone-13-pro/images/specs/dimensions_iphone_13_pro_max__etaibw7deoqe_small_2x.jpg*/;
+    }
+}
+

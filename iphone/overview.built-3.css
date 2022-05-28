@@ -1,0 +1,34 @@
+/* privacy headline  */
+.tile-privacy .typography-privacy-headline {
+    width: 197px;
+}
+
+@media only screen and (max-width: 1068px) {
+    .tile-privacy .typography-privacy-headline {
+        width:180px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .tile-privacy .typography-privacy-headline {
+        width:75px
+    }
+}
+
+
+/*font weight 600 change*/
+.typography-site-headline,.typography-tile-headline, .typography-section-headline,.typography-privacy-headline, .typography-feature-headline{
+    font-weight: 600;
+}
+
+.page-overview.long-tile-headlines .typography-tile-headline,.page-switch.long-tile-headlines .typography-tile-headline{
+    font-weight: 600;
+}
+
+
+
+@media only screen and (min-width: 1069px) {
+    .grid-wrapper-alt-line-wrap .tile-imessage .tile-headline{
+        max-width: initial;
+    }
+}

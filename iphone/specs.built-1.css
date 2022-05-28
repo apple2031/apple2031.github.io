@@ -1,0 +1,64 @@
+.section-external .image-external-connectors .diagram-text.diagram-speaker-2 {
+	left: 660px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker-2 {
+        left: 450px;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker-2 {
+        bottom: 425px;
+        left: 28px;
+        width: 130px;
+
+    }
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-external .image-external-connectors .diagram-text.diagram-ring{
+		width: 73px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-external .image-external-connectors .diagram-text.diagram-ring{
+		width: 66px;
+	}
+	.section-external .image-external-connectors .diagram-text.diagram-side {
+        bottom: auto;
+        top: 116px;
+        left: 182px;
+        line-height: 1.2;
+        width: 47px;
+        word-wrap:break-word
+    }
+}
+
+.section-external .image-external-connectors .diagram-text.diagram-speaker{
+	left: 204px;
+}
+
+@media only screen and (max-width: 1068px) {
+	.section-external .image-external-connectors .diagram-text.diagram-speaker{
+		left:180px;
+	}
+}
+
+@media only screen and (max-width: 734px) {
+	.section-external .image-external-connectors .diagram-text.diagram-mic{
+		left: 8px;
+	}
+	.section-external .image-external-connectors .diagram-text.diagram-speaker{
+		left: 116px;
+	}
+
+}
+
+@media only screen and (max-width: 734px) {
+    .section-external .image-external-connectors .diagram-text.diagram-volume {
+         top: 116px;
+    }
+}
